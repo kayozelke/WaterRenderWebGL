@@ -30,4 +30,4 @@ Aby uruchomić projekt wymagane jest uruchomienie plików na serwerze WWW
 - tlo.png - jest to obrazek pobrany z Internetu odpowiadający za tło naszego projektu.
 
 ## Demonstracja projektu ##
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/kayozelke/WaterRenderWebGL/blob/main/water_render_demo.gif))
+![](https://github.com/kayozelke/WaterRenderWebGL/blob/main/water_render_demo.gif)
