@@ -28,3 +28,5 @@ Aby uruchomić projekt wymagane jest uruchomienie plików na serwerze WWW
 - rendering_wody.html - jest to główny element naszej pracy - rendering wody. W czasie tworzenia własnego kodu wykorzystaliśmy kody udostępnione na stronie zajęć laboratoryjnych.
 - Tex.png - jest to obrazek odpowiadający za kolor wody. Kolor dla obiektu wody pobierany jest z pierwszego piksela tego obrazka.
 - tlo.png - jest to obrazek pobrany z Internetu odpowiadający za tło naszego projektu.
+
+## Demonstracja projektu ##
