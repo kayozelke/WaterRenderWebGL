@@ -1,5 +1,9 @@
 # Projekt zaliczeniowy - Grafika komputerowa #
 
+Temat projektu: Rendering wody (render to texture) + zakrzywienia.
+
+Data wykonania projektu: 14.06.2023 r.
+
 
 ## Elementy wykonane w ramach projektu ##
 - Utworzenie obiektu siatki w programie Blender. Siatka była początkowo podzielona na kwadraty; następnie każdy kwadrat został podzielony na dwa trójkąty, co utworzyło bazę, którą wykorzystaliśmy jako tafla wody.
